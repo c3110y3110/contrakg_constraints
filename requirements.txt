@@ -1,0 +1,4 @@
+pandas>=2.1
+tqdm>=4.66
+requests>=2.31
+python-dateutil>=2.9

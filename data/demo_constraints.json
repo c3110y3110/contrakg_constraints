@@ -1,0 +1,38 @@
+{
+  "P19": {
+    "pid": "P19",
+    "subject_type": [
+      {
+        "constraint_qid": "Q21503250",
+        "classes": [
+          "Q5"
+        ],
+        "relation": null,
+        "status": "Q21502408",
+        "exceptions": []
+      }
+    ],
+    "value_type": [
+      {
+        "constraint_qid": "Q21510865",
+        "classes": [
+          "Q486972"
+        ],
+        "relation": null,
+        "status": "Q21502408",
+        "exceptions": []
+      }
+    ],
+    "single_value": false,
+    "single_value_status": null,
+    "single_value_exceptions": []
+  },
+  "P214": {
+    "pid": "P214",
+    "subject_type": [],
+    "value_type": [],
+    "single_value": true,
+    "single_value_status": "Q21502408",
+    "single_value_exceptions": []
+  }
+}

@@ -1,0 +1,5 @@
+# Example property IDs (edit this list)
+P19  # place of birth
+P20  # place of death
+P214 # VIAF ID (often single-value)
+P213 # ISNI (often single-value)

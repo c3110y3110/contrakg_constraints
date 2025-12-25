@@ -1,0 +1,3 @@
+{"id": "demo1", "test_type": "value_type_violation", "pid": "P19", "is_contrast": true, "triples": [{"subj": "Q937", "pid": "P19", "obj": "Q312"}]}
+{"id": "demo2", "test_type": "subject_type_violation", "pid": "P19", "is_contrast": true, "triples": [{"subj": "Q312", "pid": "P19", "obj": "Q1726"}]}
+{"id": "demo3", "test_type": "single_value_violation", "pid": "P214", "is_contrast": true, "triples": [{"subj": "Q937", "pid": "P214", "obj": "Q1"}, {"subj": "Q937", "pid": "P214", "obj": "Q2"}]}
